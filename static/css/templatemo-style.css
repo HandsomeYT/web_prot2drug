@@ -107,6 +107,23 @@ p {
     background-color: #055278;
 }
 
+.tm-btn-subscribe2 {
+    background-color: #ffffff;
+    border-style: none;
+    height: 50px;
+	padding: 0.75rem 1.6rem;
+    font-weight: 300;
+    font-size: 1.3rem;
+    margin-top: -10px;
+    font-family: "Times New Roman", Times, serif;
+    color: #000;
+    cursor: pointer;
+}
+
+.tm-btn-subscribe2:hover {
+    background-color: #055278;
+}
+
 .tm-social-icons-container {
     margin: 10px;
 }
@@ -239,5 +256,5 @@ p {
 	
 	.tm-btn-subscribe {
 		margin-top: 20px;
-	}
+    }
 }
